@@ -36,5 +36,5 @@
   <br> 
   
 ### 🔥 Featured Projects  
-🌊 [SplashScore](https://github.com/yourusername/waterpolo-app) – A platform for tracking matches, stats & events  
+ - 🌊 [SplashScore](https://github.com/yourusername/waterpolo-app) – A platform for tracking matches, stats & events  
 
